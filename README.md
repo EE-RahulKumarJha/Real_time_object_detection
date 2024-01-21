@@ -1,4 +1,4 @@
-# Real-Time Object Detection with OpenCV
+# Real-Time Object Detection with MATLAB
 
 This repository contains a Python script for real-time object detection using OpenCV and a pre-trained MobileNet SSD model.
 
